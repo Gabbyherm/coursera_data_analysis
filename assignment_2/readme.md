@@ -4,7 +4,7 @@
 [Coursera_Addhealth.py](Coursera_Addhealth.py)
 
 #### Program Output
-[Output.md](Output.md)
+[output.md](output.md)
 
 ####  Analysis of results
 A random sample of 6,504 adolescents were asked to indicate whether a series of statements were true for them. 
