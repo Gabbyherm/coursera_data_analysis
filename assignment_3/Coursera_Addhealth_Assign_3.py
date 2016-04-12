@@ -86,6 +86,10 @@ recode1 = {79: 16, 80: 15, 81: 14, 82: 13, 83: 12}
 sub2['AGELess16']= sub2['H1GI1Y'].map(recode1)
 
 #Examining Frequency Distributions for Age
-print ('counts for AGELess16')
+print ('Counts for AGELess16')
 c5=sub2['AGELess16'].value_counts(sort=False, dropna=False).sort_index()
 print(c5)
+
+#print ('Percentage of AGEless16')
+#p5=sub2('AGELess16').value_counts(sourt=False, dropna=False, normalize=True).sort_index()
+#print(p5)
